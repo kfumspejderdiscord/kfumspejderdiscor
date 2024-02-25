@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["Lytter til **Spejdere der klager over at rygsækken er tung**","Lytter til **Spejdere der klager over at rygsækken er tung**","Lytter til **Spejdere der klager over at rygsækken er tung**","Lytter til **Spejdere der klager over at rygsækken er tung**","Lytter til **Spejdere der klager over at rygsækken er tung**"];
 
 
 let currentIndex = 0;
